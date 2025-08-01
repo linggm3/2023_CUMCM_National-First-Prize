@@ -6,14 +6,14 @@
 
 
 <p align="center">
-  <img src="figs/fig1.png" width="70%">
+  <img src="figs/fig1.png" width="60%">
 </p>
 
 在塔式太阳能光热发电站中，**定日镜场**扮演着至关重要的角色，它由众多**定日镜**组成。这些定日镜随着太阳的运动而自动调整位置，以精确地将太阳光线汇聚到**吸收塔**上，从而产生大量的热能，最终经过**集热器**转化成电能。（更多详细描述请参考网页和A题.pdf）
 
 
 <p align="center">
-  <img src="figs/fig2.png" width="45%">
+  <img src="figs/fig2.png" width="35%">
 </p>
 
 ## 解决什么问题
@@ -34,7 +34,7 @@
 根据题目信息和文献得到太阳高度角、方位角、赤纬角 [2]。通过三个角度建立入射光线，反射光线以及定日镜法向向量的模型。
 
 <p align="center">
-  <img src="figs/fig4.png" width="60%">
+  <img src="figs/fig4.png" width="50%">
 </p>
 
 
@@ -60,7 +60,7 @@
 根据约束条件，建立单位面积年平均输出热功率优化模型。上层规划确定了吸收塔的具体位置，并传递给下层；下层在上层的规划基础上，对定日镜的参数进行优化，并将优化结果反馈给上层，上层规划再根据反馈调整吸收塔的位置。多次循环迭代可以得到最大的单位面积年平均输出热功率。
 
 <p align="center">
-  <img src="figs/fig8.png" width="80%">
+  <img src="figs/fig8.png" width="70%">
 </p>
 
 
@@ -73,32 +73,32 @@
 </p>
 
 ## 得到了什么结果
-我们团队的这份方案获得了**全国大学生数学建模竞赛（CUMCN 2023）的国家级一等奖**！
+我们团队的这份方案获得了**全国大学生数学建模竞赛（CUMCM 2023）的国家级一等奖**！
 
 CUMCM 2023 有 59611队，近18万人报名参赛。最终在本科组比赛中，共299队获全国一等奖，**获奖率为 0.5%**，我们有幸成为其中之一。
 
 ### 问题一
 <p align="center">
-  <img src="figs/fig10.png" width="80%">
+  <img src="figs/fig10.png" width="75%">
 </p>
 <p align="center">
-  <img src="figs/fig13.png" width="80%">
+  <img src="figs/fig13.png" width="75%">
 </p>
 
 ### 问题二
 <p align="center">
-  <img src="figs/fig11.png" width="80%">
+  <img src="figs/fig11.png" width="75%">
 </p>
 <p align="center">
-  <img src="figs/fig14.png" width="60%">
+  <img src="figs/fig14.png" width="50%">
 </p>
 
 ### 问题三
 <p align="center">
-  <img src="figs/fig12.png" width="80%">
+  <img src="figs/fig12.png" width="75%">
 </p>
 <p align="center">
-  <img src="figs/fig15.png" width="60%">
+  <img src="figs/fig15.png" width="50%">
 </p>
 
 ## 文件说明
